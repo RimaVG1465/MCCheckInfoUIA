@@ -1,0 +1,19 @@
+--
+name: CheckInfoUI
+version: 1.7.0.2
+description: information plugin made simple
+author: RimaVG1465
+api: 5.0.0
+main: RimVG\PluginDev\Main
+commands:
+  cf:
+    description: CheckInfoUI plugin command GUI created by [ RimaVG1465 ]
+    permission: cf.ui
+permissions:
+  cf.ui:
+    description: Allow player use cmd
+    default: true
+
+# all the contents of the code can be reset within some time
+# Create By Team RimVG, [ RimaVG1465 ]
+--
